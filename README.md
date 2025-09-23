@@ -24,4 +24,4 @@ This clip shows you how to use Data Preparation Tool
 ![data-preparation-tutorial](https://github.com/user-attachments/assets/a5604254-a2cf-44a1-a796-1d2309a9ef20)
 
 ## Reference
-Author/s, 2024. Geoscience in the Era of Generative Artificial Intelligence (Geo[AI]-LSM): Understanding the Potential Benefits of Google Gemini in Producing Landslide Susceptibility Mapping. Expert Systems With Applications.
+Author/s, 2025. Geoscience in the Era of Generative Artificial Intelligence (Geo[AI]-LSM): Understanding the Potential Benefits of Google Gemini in Producing Landslide Susceptibility Mapping. Advances in Space Research.
