@@ -1,4 +1,5 @@
 # Geo[AI]-LSM
+![Tutorial Videos] (https://www.youtube.com/@Deep-AutoML)
 # Geoscience in the Era of Generative Artificial Intelligence (Geo[AI]-LSM): Producing Landslide Susceptibility Mapping based on Generative Artificial Intelligence
 ![Geo AI -LSM_PipeLne](https://github.com/user-attachments/assets/a0ec3bd5-7163-4f65-9a1d-2aa44112c5c4)
 
