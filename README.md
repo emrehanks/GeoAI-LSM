@@ -27,3 +27,5 @@ This clip shows you how to use Data Preparation Tool
 
 ## Reference
 Author/s, 2025. Geoscience in the Era of Generative Artificial Intelligence (Geo[AI]-LSM): Understanding the Potential Benefits of Google Gemini in Producing Landslide Susceptibility Mapping. Advances in Space Research.
+
+Buy Me a Coffee to support the content: https://buymeacoffee.com/geodesignlab
